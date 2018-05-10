@@ -2,6 +2,8 @@
 
 The code here was used to explore various machine and reinforcement learning algorithms as part of an class for our grad school program. In each assignment I ran experiments on two datasets to compare and contrast algorithms in an attempt to highlight and intuitively understand the strengths and weaknesses of each algorithm. An accompanying report with experiment results was written and is excluded here but available by request. 
 
+***
+
 **Datasets:** White Wine, Abalone
 
 
